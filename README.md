@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS)
+
 ## Olá! Eu sou o Victor, e Seja Bem Vindo ao meu Perfil do GitHub !! 👋
 
 <a href="https://www.linkedin.com/in/victor-hugo-nogueira-santos-32a519184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
