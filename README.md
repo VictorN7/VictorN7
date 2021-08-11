@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS)
 
 ## Olá! Eu sou o Victor, e Seja Bem Vindo ao meu Perfil do GitHub !! 👋
 
