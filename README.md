@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS
 
 ## Olá! Eu sou o Victor, e Seja Bem Vindo ao meu Perfil do GitHub !! 👋
 
@@ -35,6 +35,13 @@
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+</div><br>
+    
+## Ferramentas de Software 🛠
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  <br>
  
