@@ -25,7 +25,7 @@
  
  ##
  
- ## Habilidades 🤓
+- ## Habilidades 🤓
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -37,7 +37,7 @@
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 </div><br>
     
-## Ferramentas de Software 🛠
+- ## Ferramentas de Software 🛠
     
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
