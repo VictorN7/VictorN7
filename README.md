@@ -11,7 +11,7 @@
 
 
 - 🔭 Estou buscando oportunidades de Estágio ou como Desenvolvedor Front-End/Back-End...
-- 📱  Atualmente estou aprendendo Programação Mobile..
+- 🤓  Atualmente estou aprendendo Programação Mobile e Banco de Dados NoSQL...
 - 📚 Estudante de Desenvolvimento de Sistemas - SENAI
 - ⚡ Gosto de Jogos, Esportes e Aprender rsrs...
 
@@ -23,26 +23,49 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ##
- 
-- ## Habilidades 🤓
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-</div><br>
+ ## Habilidades 🛠 
+
+- ### Front-End 
     
-- ## Ferramentas de Software 🛠
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+- ### Back-End
+
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
+<img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+    
+- ### Base de Dados
+
+<img align="center" src="https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white">
+
+<!---<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
+
+
+- ### Controle de Versão
+
+<img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    
+<img align="center" src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white">
+    
+- ### Hospedagem
+
+<img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    
+<img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    
  <br>
  
 ##
