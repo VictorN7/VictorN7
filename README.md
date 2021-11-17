@@ -11,9 +11,9 @@
 
 
 - 🔭 Estou buscando oportunidades de Estágio ou como Desenvolvedor Front-End/Back-End...
-- 🤓  Atualmente estou aprendendo Programação Mobile e Banco de Dados NoSQL...
+- 🤓  Atualmente estou aprendendo Banco de Dados NoSQL, Java SpringBoot e Hibernate/JPA...
 - 📚 Estudante de Desenvolvimento de Sistemas - SENAI
-- ⚡ Gosto de Jogos, Esportes e Aprender rsrs...
+- ⚡ Gosto de Ler livros, Esportes, Jogos Digitais e Aprender...
 
 ##
 
@@ -21,6 +21,7 @@
   <a href="https://github.com/VictorN7">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorN7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
  
  ## Habilidades 🛠 
@@ -52,7 +53,8 @@
 <img align="center" src="https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white">
 
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-
+    
+<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 - ### Controle de Versão
 
