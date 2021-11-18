@@ -15,15 +15,9 @@
 - 📚 Estudante de Desenvolvimento de Sistemas - SENAI
 - ⚡ Gosto de Ler livros, Esportes, Jogos Digitais e Aprender...
 
-##
 
- <div>
-  <a href="https://github.com/VictorN7">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorN7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
+<div>
 
-</div>
- 
  ## Habilidades 🛠 
 
 - ### Front-End 
@@ -67,6 +61,17 @@
 <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     
 <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    
+</div>
+
+##
+
+ <div>
+  <a href="https://github.com/VictorN7">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorN7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
     
  <br>
  
