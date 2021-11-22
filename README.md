@@ -5,7 +5,7 @@
 
 
     
-<a href="https://www.linkedin.com/in/victor-hugo-nogueira-santos-32a519184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/victor-nogueira-32a519184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a target="_blank" href="mailto:victorhnogueira@hotmail.com">
     <img alt="Outlook" src="https://img.shields.io/badge/victorhnogueira@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
