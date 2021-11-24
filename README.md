@@ -1,13 +1,12 @@
 
 ![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS)
 
-## Olá! Eu sou o Victor, e Seja Bem Vindo ao meu Perfil do GitHub !! 👋
-
+## 🚀 Seja Bem Vindo(a), Eu sou o Victor Nogueira!! 👋
 
     
 <a href="https://www.linkedin.com/in/victor-nogueira-32a519184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a target="_blank" href="mailto:victorhnogueira@hotmail.com">
-    <img alt="Outlook" src="https://img.shields.io/badge/victorhnogueira@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
    
 
@@ -37,8 +36,8 @@
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<!-- <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 
-<img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
     
 - ### Back-End
@@ -77,8 +76,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorN7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
  
-  <img alt="giff" height="150em" src="https://user-images.githubusercontent.com/78637454/142747348-02857df8-dbab-441c-b5b2-a174c4066bf7.gif"/>
-  <img alt="giff" height="150em" src="https://user-images.githubusercontent.com/78637454/142747347-a23fadda-bb7e-4574-a693-24508e21c7b3.gif"/>
+  <!-- -->
+  
 
 </div>
     
