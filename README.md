@@ -1,16 +1,13 @@
 
+<!--  ![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS)
+-->
 
 
-## 🚀 Seja Bem Vindo(a), Eu sou o Victor Nogueira!! 👋
 
-    
-<a href="https://www.linkedin.com/in/victor-nogueira-32a519184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-<a target="_blank" href="mailto:victorhnogueira@hotmail.com">
-    <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-   
+<a href="https://www.linkedin.com/in/victor-nogueira-32a519184/" target="_blank"><img style="height:25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 
+### 🚀 Seja Bem Vindo(a), Eu sou o Victor Nogueira!! 👋
 
 <div>
     
@@ -19,6 +16,14 @@
 - 📚 Estudante de Desenvolvimento de Sistemas - SENAI
 - ⚡ Gosto de Ler livros, Esportes, Jogos Digitais e Aprender...
     
+</div>
+
+ <div>
+  <a href="https://github.com/VictorN7">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorN7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
+  <!-- -->
+ 
 </div>
 
 <div>
@@ -69,17 +74,7 @@
     
 </div>
 
-##
 
- <div>
-  <a href="https://github.com/VictorN7">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorN7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
- 
-  <!-- -->
-  
-
-</div>
     
  <br>
  
