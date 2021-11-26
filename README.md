@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VictorN7&color=blueviolet&label=PROFILE+VIEWS)
+
 
 ## 🚀 Seja Bem Vindo(a), Eu sou o Victor Nogueira!! 👋
 
