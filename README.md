@@ -57,8 +57,9 @@
 
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     
+<!--
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+-->
 - ### Controle de Versão
 
 <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
