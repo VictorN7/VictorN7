@@ -11,10 +11,9 @@
 
 <div>
     
-- 🔭 Estou buscando oportunidades de Estágio ou como Desenvolvedor Front-End/Back-End...
-- 🤓  Atualmente estou aprendendo Banco de Dados NoSQL, Java SpringBoot e Hibernate/JPA...
-- 📚 Estudante de Desenvolvimento de Sistemas - SENAI
-- ⚡ Gosto de Ler livros, Esportes, Jogos Digitais e Aprender...
+- 🔭 Estou buscando oportunidades de Estágio ou como Desenvolvedor Java.
+- 📚 Estudante de Analise e Desenvolvimento de Sistemas.
+- ⚡ Gosto de Ler livros, Esportes, Jogos Digitais e Aprender.
     
 </div>
 
