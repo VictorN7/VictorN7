@@ -71,14 +71,18 @@
 <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     
 <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    
+
+
+<!-- 
 </div>
 
 
     
  <br>
- 
+
 ##
    ![Snake animation](https://github.com/VictorN7/VictorN7/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+-->
