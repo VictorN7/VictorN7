@@ -17,13 +17,6 @@
     
 </div>
 
- <div>
-  <a href="https://github.com/VictorN7">
- 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorN7&layout=compact&langs_count=7&theme=dark"/>
-  <!-- -->
- 
-</div>
 
 <div>
 
