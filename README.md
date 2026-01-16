@@ -73,7 +73,7 @@ Também possuo conhecimentos em **JavaScript** e fundamentos de desenvolvimento 
 ## 📊 Status GitHub 
 <p align="center">
   <img  width="400" src="https://github-readme-stats-one-bice.vercel.app/api?username=VictorN7&show_icons=true&theme=tokyonight" />
-  <img  width="400" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VictorN7&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" />
+  <img  width="400" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VictorN7&layout=compact&theme=tokyonight&hide=CSS&langs_count=6" />
 </p>
 
 
